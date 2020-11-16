@@ -1,0 +1,47 @@
+[
+  {
+    "icon": "https://static.domainesia.com/assets/images/icons/fitur/v2-ssd-super-cepat.png",
+    "title": "SSD Super Cepat",
+    "desc": "100% Enterprise SSD untuk performa website secepat kilat"
+  },
+  {
+    "icon": "https://static.domainesia.com/assets/images/icons/fitur/v2-cloud-backups.png",
+    "title": "Cloud Backup",
+    "desc": "Backup harian ke Cloud menjamin keamanan data penting anda"
+  },
+  {
+    "icon": "https://static.domainesia.com/assets/images/icons/fitur/v2-unlimited-bandwidth.png",
+    "title": "Unlimited Bandwidth",
+    "desc": "Bandwidth tanpa batas menjamin kelancaran website anda"
+  },
+  {
+    "icon": "https://static.domainesia.com/assets/images/icons/fitur/v2-instant-deploy.png",
+    "title": "Instant Deploy",
+    "desc": "Fitur eksklusif untuk membuat website dengan mudah & instan"
+  },
+  {
+    "icon": "https://static.domainesia.com/assets/images/icons/fitur/v2-garansi-uang-kembali.png",
+    "title": "Garansi Uang Kembali",
+    "desc": "Backup harian ke Cloud menjamin keamanan data penting anda"
+  },
+  {
+    "icon": "https://static.domainesia.com/assets/images/icons/fitur/v2-passionate-support.png",
+    "title": "Passionate Support",
+    "desc": "Pelayanan terbaik ke tiap customer, anda adalah prioritas kami"
+  },
+  {
+    "icon": "https://static.domainesia.com/assets/images/icons/fitur/ipv6.png",
+    "title": "Mendukung IPv6",
+    "desc": "Website dapat diakses dengan jaringan IPv6 yang lebih mutakhir"
+  },
+  {
+    "icon": "https://static.domainesia.com/assets/images/icons/fitur/gratis-server-dan-domain.png",
+    "title": "Gratis Domain & Gratis SSL",
+    "desc": "Pembelian minimal hosting Super 1 tahun gratis domain dan SSL"
+  },
+  {
+    "icon": "https://static.domainesia.com/assets/images/icons/fitur/5-server.png",
+    "title": "5 Lokasi Server",
+    "desc": "Bebas pilih lokasi server di Indonesia, Singapore, Jepang, Inggris & Amerika"
+  }
+]
