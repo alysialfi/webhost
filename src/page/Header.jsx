@@ -26,7 +26,7 @@ const Header = () => {
     <>
       <div className="header">
         <div className="header-left">
-          <img src={people} className="img-left" />
+          <img src={people} alt="background" className="img-left" />
         </div>
         <div className="header-right">
           <header>

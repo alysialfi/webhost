@@ -14,9 +14,9 @@ function App() {
       <Navbar/>
       <Header/>
       <Benefit/>
-      <Footer/>
       <Product/>
       <Review/>
+      <Footer/>
     </div>
   );
 }

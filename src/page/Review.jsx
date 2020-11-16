@@ -71,10 +71,10 @@ const Review = () => {
           >
         {/* iterate state that contains api response */}
             {reviewRes.map((rev, id) => (<div className="testimoni-card">
-              <div className="card">
+              <section className="card">
                 <h3 itemProp="author">{rev.name}</h3>
                 <p itemProp="reviewBody">{rev.comments}</p>
-              </div>
+              </section>
               <div className="card-profile">
                 <img src={rev.pic} alt="" />
               </div>

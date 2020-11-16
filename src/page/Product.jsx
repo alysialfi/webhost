@@ -45,15 +45,15 @@ export const Product = () => {
         {/* iterate state that contains api response */}
         {productRes.map((prod, id) => (
           <div className="card">
-            <div className="card-header">
+            <section className="card-header">
               <h2 itemProp="name">{prod.title}</h2>
-            </div>
-            <div className="price">
+            </section>
+            <section className="price">
               <h5 itemProp="priceCurrency" content="RP">Rp</h5>
               <h1 itemProp="price">{prod.price}</h1>
               <h4>/bulan</h4>
-            </div>
-            <div className="card-body">
+            </section>
+            <section className="card-body">
               <ul>
                 {prod.features.map((ft, id) => (
                   <li>
@@ -63,10 +63,10 @@ export const Product = () => {
                   </li>
                 ))}
               </ul>
-            </div>
-            <div className="card-footer">
+            </section>
+            <section className="card-footer">
               <button type="submit">Beli Sekarang</button>
-            </div>
+            </section>
           </div>
         ))}
 

@@ -34,17 +34,17 @@ const Benefit = () => {
 
   return (
     <>
-      <img src={img_benefit} alt="background image" className="bg_benefit" />
+      <img src={img_benefit} alt="background" className="bg_benefit" />
       <div className="benefit">
         <div className="benefit-card">
         {/* iterate state that contains api response */}
           {benefitRes.map((ben, id) => (
             <div className="card" key={id}>
               <img src={ben.icon} alt="" />
-              <div className="card-text">
+              <section className="card-text">
                 <h3>{ben.title}</h3>
                 <h5>{ben.desc}</h5>
-              </div>
+              </section>
             </div>
           ))}
 
