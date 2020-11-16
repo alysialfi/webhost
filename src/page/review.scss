@@ -1,0 +1,74 @@
+.review{
+  margin: 10% 0 0 0;
+  position: relative;
+
+  h1{
+    text-align: center;
+  }
+}
+.testimoni{
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin-top: 3%;
+}
+.testimoni-card{
+  min-width: 250px;
+  min-height: 245px;
+  position: relative;
+  display: flex;
+
+  .card{
+    max-width: 350px;
+    max-height: 380px;
+    background: #22A1CC;
+    border-radius: 15px;
+    margin: auto;
+    padding: 3% 5% 3% 5%;
+    box-sizing: border-box;
+    box-shadow: 0 0 18px rgba(0, 0, 0, .3);
+
+    h3{
+      margin: 5% 0 0 0;
+      color: white;
+    }
+
+    p{
+      color: white;
+    }
+  }
+
+  .card-profile{
+    position: absolute;
+    top: 0;
+
+    img{
+      max-width: 55px;
+      max-height: 55px;
+      background: rgb(124, 21, 55);
+      border-radius: 55px;
+    }
+  }
+}
+.carousel-container{
+  width: 88%;
+  /* height: 75%; */
+}
+.div-member{
+  .banner-promo{
+    width: 30%;
+    background: #63A9FF;
+  }
+  .form-member{
+    width: 70%;
+    background: #BDE0FF;
+  }
+}
+.bg-review{
+  display: flex;
+  justify-content: center;
+
+  img{
+    margin-top: 5%;
+  }
+}

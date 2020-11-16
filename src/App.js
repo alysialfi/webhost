@@ -6,6 +6,7 @@ import Footer from '../src/page/footer/Footer'
 import Header from './page/Header'
 import Benefit from './page/Benefit'
 import Product from './page/Product'
+import Review from './page/Review'
 
 function App() {
   return (
@@ -15,6 +16,7 @@ function App() {
       <Benefit/>
       <Footer/>
       <Product/>
+      <Review/>
     </div>
   );
 }
