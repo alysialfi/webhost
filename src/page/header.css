@@ -1,0 +1,65 @@
+.header{
+  display: flex;
+  justify-content: center;
+}
+.header-left{
+  width: 50%;
+}
+.header-right{
+  padding-top: 10%;
+  margin: 0 3% 0 5%;
+  width: 50%;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+header > h1{
+  width: 75%;
+  text-align: left;
+  color: rgb(0, 0, 0);
+  font: 2.3em sans-serif;
+  font-weight: bold;
+  margin-bottom: 2%;
+}
+header > h4{
+  width: 75%;
+  text-align: left;
+  color: rgb(0, 0, 0);
+  font-weight: bold;
+  margin: 0 0 5% 0;
+}
+.search-div > input{
+  font-size: 1.3rem;
+  width: 75%;
+  height: 45px;
+  border: 2px solid #009FCC;
+  border-radius: 15px;
+  padding: 2.5% 2.5% 2.5% 10%;
+  box-sizing: border-box;
+}
+.icon-div{
+  width: 4%;
+  height: 7%;
+  display: flex;
+  position: absolute;
+}
+.icon-search{
+  font-size: 20px;
+  margin: auto;
+  color: #FF852E;
+}
+.technology-div{
+  display: flex;
+  flex-wrap: wrap;
+  width: 85%;
+  margin-top: 10%;
+}
+.tech-img{
+  width: 15%;
+  margin: 4px;
+  display: flex;
+}
+.tech-img > img{
+  width: 45%;
+  margin: auto auto auto 0;
+}
