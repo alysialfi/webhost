@@ -5,6 +5,7 @@ import Navbar from '../src/page/navbar/Navbar'
 import Footer from '../src/page/footer/Footer'
 import Header from './page/Header'
 import Benefit from './page/Benefit'
+import Product from './page/Product'
 
 function App() {
   return (
@@ -13,6 +14,7 @@ function App() {
       <Header/>
       <Benefit/>
       <Footer/>
+      <Product/>
     </div>
   );
 }
