@@ -1,0 +1,44 @@
+.benefit{
+  margin: 10% 0 10% 0;
+  position: relative;
+  z-index: 1;
+}
+.bg_benefit{
+  position: absolute;
+  z-index: 0;
+  right: 0;
+  margin: 15% 0 10% 0;
+}
+.benefit-card{
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+
+  .card{
+    box-shadow: 0 0 18px rgba(0, 0, 0, 0.2);
+    border-radius: 10px;
+    max-width: 330px;
+    padding: 16px;
+    box-sizing: border-box;
+    display: flex;
+    margin: 1.5%;
+    background: white;
+
+    img{
+      max-width: 60%;
+      max-height: 60%;
+    }
+
+    .card-text{
+      margin: 0 2% 0 5%;
+
+      h3{
+        margin: 0;
+      }
+  
+      h5{
+        margin: 3% 0 0 0;
+      }
+    }
+  }
+}
