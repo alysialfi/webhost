@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "title": "Extra",
+    "price": "16.000",
+    "discount": "no",
+    "features": ["750 MB Space", "Unlimited Bandwidth", "5 Website", "Unlimited Email", "Supports IPv4 & IPv6"]
+  },
+  {
+    "id": 2,
+    "title": "Super",
+    "price": "32.000",
+    "discount": "yes",
+    "features": ["2 GB Space", "Unlimited Bandwidth", "Unlimited Website", "Unlimited Email", "Supports IPv4 & IPv6", "Gratis Domain!", "Akses SSH"]
+  },
+  {
+    "id": 3,
+    "title": "Monster",
+    "price": "64.000",
+    "discount": "no",
+    "features": ["5 GB Space", "Unlimited Bandwidth", "Unlimited Website", "Unlimited Email", "Supports IPv4 & IPv6", "Gratis Domain!", "Akses SSH"]
+  }
+]
